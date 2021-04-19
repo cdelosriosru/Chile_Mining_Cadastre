@@ -4,3 +4,8 @@
 3. In postman clear environments.
 4. Run collection runner
 5. Repeat step 1 for the other request. 
+
+6. Run scripts in R that compile and transform the files into a readeble shapefile.
+7. Adjust projection using ArcGIS
+8. export adjusted Maps to shp and save
+9. Do magic
